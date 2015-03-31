@@ -1,0 +1,2 @@
+#!/bin/bash
+ruby photo-download.rb & gsettings set org.mate.background picture-filename dayphoto2.jpg & gsettings set org.mate.background picture-filename dayphoto.jpg
